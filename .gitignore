@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# YOLO
+runs/
+
+# Uploads
+uploads/
+
+# Outputs
+outputs/
+
+# Environment Variables
+.env
+
+# Database
+*.db
+
+# IDE
+.vscode/
+.idea/

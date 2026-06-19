@@ -1,0 +1,32 @@
+# AI-Powered Helmet Violation Detection System
+
+## Features
+
+- Custom YOLOv8 Helmet Detection Model
+- OpenCV Video Processing
+- Violation Detection Engine
+- Analytics Engine
+- Evidence Snapshot Generation
+- FastAPI Backend (In Progress)
+- PostgreSQL Integration (In Progress)
+- Docker Deployment (Planned)
+
+## Tech Stack
+
+- Python
+- YOLOv8
+- OpenCV
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Docker
+- Bootstrap
+- Jinja2
+
+## Current Progress
+
+- Phase 1: Environment Setup ✅
+- Phase 2: Dataset Engineering ✅
+- Phase 3: Model Training ✅
+- Phase 4: Video Processing & Analytics ✅
+- Phase 5: Database Layer 🚧

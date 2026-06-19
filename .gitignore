@@ -7,21 +7,35 @@ __pycache__/
 # Virtual Environment
 venv/
 
-# YOLO
+# YOLO Training Outputs
 runs/
+
+# Dataset
+datasets/raw/
+datasets/processed/
 
 # Uploads
 uploads/
 
-# Outputs
+# Generated Outputs
 outputs/
-
-# Environment Variables
-.env
 
 # Database
 *.db
 
+# Environment Variables
+.env
+
 # IDE
 .vscode/
 .idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+phase2_dataset_work.md
+phase3_model_training.md
+phase4_part3_video.md
+phase4_full_work.md
+
